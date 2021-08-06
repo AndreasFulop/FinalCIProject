@@ -1,0 +1,1 @@
+{"uuid":"7ffd3d3d-6149-44cb-aecc-105b05b111f7","name":"testClickPopup()","children":["0f934d84-7d27-4e58-b6c8-adf33e56d242"],"befores":[{"name":"setDriver","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1628237726217,"stop":1628237729192}],"afters":[],"links":[],"start":1628237726136,"stop":1628237739578}

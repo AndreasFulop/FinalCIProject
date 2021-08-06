@@ -1,0 +1,1 @@
+{"uuid":"6c3f701d-29f6-4f84-9374-1e53712daf58","name":"testClickNews()","children":["bc60d3cd-e93f-47d5-b5b4-06fa4f24e25f"],"befores":[{"name":"setDriver","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1628239473696,"stop":1628239476631}],"afters":[],"links":[],"start":1628239473634,"stop":1628239489620}
