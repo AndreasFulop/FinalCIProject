@@ -1,0 +1,48 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "MainPageTest",
+    "children" : [ {
+      "name" : "testClickPopup",
+      "uid" : "a27be8d87f93d732",
+      "parentUid" : "07861cb88db0e1e176ece6b62d364207",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628256940260,
+        "stop" : 1628256947043,
+        "duration" : 6783
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testClickNews",
+      "uid" : "ec71435553bb1437",
+      "parentUid" : "07861cb88db0e1e176ece6b62d364207",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628256947122,
+        "stop" : 1628256951308,
+        "duration" : 4186
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testListMaker",
+      "uid" : "397aafe863730f8d",
+      "parentUid" : "07861cb88db0e1e176ece6b62d364207",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628256951312,
+        "stop" : 1628256957952,
+        "duration" : 6640
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "07861cb88db0e1e176ece6b62d364207"
+  } ],
+  "name" : "packages"
+}

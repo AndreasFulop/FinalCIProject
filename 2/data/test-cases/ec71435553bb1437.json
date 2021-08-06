@@ -1,0 +1,122 @@
+{
+  "uid" : "ec71435553bb1437",
+  "name" : "testClickNews()",
+  "fullName" : "MainPageTest.testClickNews",
+  "historyId" : "3ad7dcfa6d3bdaac38395c772d302054",
+  "time" : {
+    "start" : 1628256947122,
+    "stop" : 1628256951308,
+    "duration" : 4186
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setDriver",
+    "time" : {
+      "start" : 1628256947123,
+      "stop" : 1628256947334,
+      "duration" : 211
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "Init",
+    "time" : {
+      "start" : 1628256939877,
+      "stop" : 1628256940216,
+      "duration" : 339
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "closing",
+    "time" : {
+      "start" : 1628256951239,
+      "stop" : 1628256951308,
+      "duration" : 69
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az81-527"
+  }, {
+    "name" : "thread",
+    "value" : "3365@fv-az81-527.ForkJoinPool-1-worker-3(16)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "MainPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MainPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testClickNews"
+  }, {
+    "name" : "suite",
+    "value" : "MainPageTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "f32c838b03b8726c",
+        "reportUrl" : "https://AndreasFulop.github.io/FinalCIProject/1//#testresult/f32c838b03b8726c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628256885148,
+          "stop" : 1628256889613,
+          "duration" : 4465
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ec71435553bb1437.json",
+  "parameterValues" : [ ]
+}
