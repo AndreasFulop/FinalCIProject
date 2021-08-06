@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Aug 06 15:35:26 GMT 2021","Fri Aug 06 15:35:29 GMT 2021","2811","","MainPageTest","","MainPageTest","testClickNews","testClickNews()",""
+"passed","Fri Aug 06 15:35:29 GMT 2021","Fri Aug 06 15:35:35 GMT 2021","5953","","MainPageTest","","MainPageTest","testListMaker","testListMaker()",""
+"passed","Fri Aug 06 15:35:21 GMT 2021","Fri Aug 06 15:35:26 GMT 2021","5069","","MainPageTest","","MainPageTest","testClickPopup","testClickPopup()",""
