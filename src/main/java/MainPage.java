@@ -51,11 +51,11 @@ public class MainPage {
         List<String> titleList = new ArrayList<>();
         do {
             click(RIGHTBUTTON);
-            Thread.sleep(200);
+            Thread.sleep(300);
             String text = driver.findElement(MAIN_TEXT).getText();
             if (!titleList.contains(text)) {
             titleList.add(text);
-            Thread.sleep(200);
+            Thread.sleep(300);
             }else {break;}
         }
         while (true);
