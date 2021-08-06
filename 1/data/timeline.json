@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "fv-az74-184",
+    "children" : [ {
+      "name" : "3331@fv-az74-184.ForkJoinPool-1-worker-3(16)",
+      "children" : [ {
+        "name" : "testClickNews()",
+        "uid" : "f32c838b03b8726c",
+        "parentUid" : "af5ca85cdda09dea0f123fab64f1a905",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628256885148,
+          "stop" : 1628256889613,
+          "duration" : 4465
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testClickPopup()",
+        "uid" : "4a58d29c8bd1645f",
+        "parentUid" : "af5ca85cdda09dea0f123fab64f1a905",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628256878459,
+          "stop" : 1628256885070,
+          "duration" : 6611
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testListMaker()",
+        "uid" : "48b199d22a70b4d0",
+        "parentUid" : "af5ca85cdda09dea0f123fab64f1a905",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628256889619,
+          "stop" : 1628256895749,
+          "duration" : 6130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "af5ca85cdda09dea0f123fab64f1a905"
+    } ],
+    "uid" : "c6623b41dfcd79e5cb92252f3960b300"
+  } ],
+  "name" : "timeline"
+}

@@ -1,0 +1,62 @@
+{
+  "c4941f45ab282932971bbc97f25506f1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4a58d29c8bd1645f",
+      "reportUrl" : "https://AndreasFulop.github.io/FinalCIProject/1//#testresult/4a58d29c8bd1645f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628256878459,
+        "stop" : 1628256885070,
+        "duration" : 6611
+      }
+    } ]
+  },
+  "7631ef9d8575012bbb684ec8cf1956b9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "48b199d22a70b4d0",
+      "reportUrl" : "https://AndreasFulop.github.io/FinalCIProject/1//#testresult/48b199d22a70b4d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628256889619,
+        "stop" : 1628256895749,
+        "duration" : 6130
+      }
+    } ]
+  },
+  "3ad7dcfa6d3bdaac38395c772d302054" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f32c838b03b8726c",
+      "reportUrl" : "https://AndreasFulop.github.io/FinalCIProject/1//#testresult/f32c838b03b8726c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628256885148,
+        "stop" : 1628256889613,
+        "duration" : 4465
+      }
+    } ]
+  }
+}

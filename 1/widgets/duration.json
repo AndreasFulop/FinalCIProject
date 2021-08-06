@@ -1,0 +1,31 @@
+[ {
+  "uid" : "f32c838b03b8726c",
+  "name" : "testClickNews()",
+  "time" : {
+    "start" : 1628256885148,
+    "stop" : 1628256889613,
+    "duration" : 4465
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a58d29c8bd1645f",
+  "name" : "testClickPopup()",
+  "time" : {
+    "start" : 1628256878459,
+    "stop" : 1628256885070,
+    "duration" : 6611
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "48b199d22a70b4d0",
+  "name" : "testListMaker()",
+  "time" : {
+    "start" : 1628256889619,
+    "stop" : 1628256895749,
+    "duration" : 6130
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
