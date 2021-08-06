@@ -1,0 +1,48 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "MainPageTest",
+    "children" : [ {
+      "name" : "testClickPopup()",
+      "uid" : "feba0b79f578f5b1",
+      "parentUid" : "07451e797142725ec6b74ea69b009345",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628259227143,
+        "stop" : 1628259233795,
+        "duration" : 6652
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testClickNews()",
+      "uid" : "ae304db4da73d1f2",
+      "parentUid" : "07451e797142725ec6b74ea69b009345",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628259233868,
+        "stop" : 1628259238271,
+        "duration" : 4403
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testListMaker()",
+      "uid" : "a835c3b3e6863244",
+      "parentUid" : "07451e797142725ec6b74ea69b009345",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628259238274,
+        "stop" : 1628259245446,
+        "duration" : 7172
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "07451e797142725ec6b74ea69b009345"
+  } ],
+  "name" : "suites"
+}
